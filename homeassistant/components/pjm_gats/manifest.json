@@ -1,0 +1,16 @@
+{
+  "domain": "pjm_gats",
+  "name": "PJM GATS",
+  "categories": ["energy"],
+  "codeowners": ["@dvfeinblum"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/pjm_gats",
+  "homekit": {},
+  "integration_type": "device",
+  "iot_class": "cloud_polling",
+  "quality_scale": "bronze",
+  "requirements": ["beautifulsoup4==4.13.3"],
+  "ssdp": [],
+  "zeroconf": []
+}

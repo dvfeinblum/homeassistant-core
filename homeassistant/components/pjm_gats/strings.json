@@ -1,0 +1,60 @@
+{
+  "config": {
+    "abort": {
+      "already_configured": "Account already configured"
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to PJM GATS",
+      "invalid_auth": "Invalid username or password",
+      "unknown": "Unexpected error"
+    },
+    "step": {
+      "user": {
+        "data": {
+          "password": "PJM GATS password",
+          "username": "PJM GATS username"
+        }
+      }
+    }
+  },
+  "entity": {
+    "sensor": {
+      "certificates_active": {
+        "name": "Certificates Active"
+      },
+      "certificates_active_hourly": {
+        "name": "Certificates Active Hourly"
+      },
+      "certificates_ceps": {
+        "name": "Certificates CEPS"
+      },
+      "certificates_ceps_hourly": {
+        "name": "Certificates CEPS Hourly"
+      },
+      "certificates_on_bb": {
+        "name": "Certificates On Bulletin Board"
+      },
+      "certificates_reserved": {
+        "name": "Certificates Reserved"
+      },
+      "certificates_reserved_hourly": {
+        "name": "Certificates Reserved Hourly"
+      },
+      "certificates_total": {
+        "name": "Certificates Total"
+      },
+      "generation_mwh": {
+        "name": "Generation"
+      },
+      "generator_id": {
+        "name": "Generator ID"
+      },
+      "generator_plant": {
+        "name": "Generator Plant"
+      },
+      "generator_status": {
+        "name": "Generator Status"
+      }
+    }
+  }
+}
